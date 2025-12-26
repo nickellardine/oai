@@ -1,0 +1,7 @@
+{
+  "name": "openai-mock-server",
+  "version": "1.0.0",
+  "description": "A mock server for OpenAI API",
+  "main": "api/index.js",
+  "license": "MIT"
+}
